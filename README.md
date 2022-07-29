@@ -1,4 +1,4 @@
-<img src="https://cdn-icons-png.flaticon.com/512/4974/4974492.png" width="10%"/>
+<img src="https://cdn-icons-png.flaticon.com/512/1803/1803671.png" width="10%" color="white"/>
 
 ### Hi there 👋, my name is Arthur
 #### Full Stack Developer
