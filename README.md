@@ -5,7 +5,7 @@
 
 
 I'm looking to take the next step in my career, learn and create new experiences,
-with a new time, and willing to grow and expand my skills
+with a new team, and willing to grow and expand my skills
 
 
 
@@ -37,5 +37,6 @@ with a new time, and willing to grow and expand my skills
 <div>
   <a href="https://github.com/arthurfcs98">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurfcs98&layout=compact&langs_count=7&theme=dark"/>
-  <img height="180em"src="https://github-readme-stats.vercel.app/api?username=arthurfcs98&show_icons=true&count_private=true&theme=dark&include_all_commits"/>
+  <img height="180em"src="https://git
+hub-readme-stats.vercel.app/api?username=arthurfcs98&show_icons=true&count_private=true&theme=dark&include_all_commits"/>
 </div>
