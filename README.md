@@ -1,4 +1,4 @@
-[<img src='https://user-images.githubusercontent.com/80694430/152067758-57f8a4b2-322f-4d2e-89b9-e7f0d464dc89.mp4' alt='website' height='300' width='1000'>](https://karine-mendes.netlify.app) 
+[<img src='https://i.pinimg.com/originals/ab/bf/a1/abbfa1d5c8e4b8adf8874d484071bbe5.jpg' alt='website' height='300' width='1000'>]
 
 ### Hi there 👋, my name is Arthur
 #### I'm a Full Stack Developer
@@ -27,6 +27,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" height="50" width="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" width="60"/>
   <img src="https://github.com/typeorm.png?s=20" height="50" width="60"/>
+  <img src="https://github.com/prisma.png?s=20" height="50" width="60"/>
+  <img src="https://github.com/docker.png?s=20" height="50" width="60"/>
 </div>
 <br>
 <div>
