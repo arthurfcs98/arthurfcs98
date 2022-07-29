@@ -1,4 +1,4 @@
-<img src="https://www.kindpng.com/picc/m/4-42757_full-stack-developers-developer-png-transparent-png.png" width="25%"/>
+<img src="https://cdn-icons-png.flaticon.com/512/4974/4974492.png" width="10%"/>
 
 ### Hi there 👋, my name is Arthur
 #### Full Stack Developer
