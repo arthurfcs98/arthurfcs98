@@ -1,16 +1,21 @@
+<img src="https://www.kindpng.com/picc/m/4-42757_full-stack-developers-developer-png-transparent-png.png" width="25%"/>
+
 ### Hi there 👋, my name is Arthur
-#### I'm a Full Stack Developer
+#### Full Stack Developer
+
+
+I'm looking to take the next step in my career, learn and create new experiences,
+with a new time, and willing to grow and expand my skills
 
 
 
 
 
 
-
-- :house_with_garden: I’m from Brazil.
-- 🔭 I’m currently working with React.
-- 🌱 I’m currently learning more about TypeScript and unit tests, like Cypress, Jest, etc. 
-- 📫 How to reach me: cesarinoarthur@gmail.com
+- 🌎 I’m from Brazil.
+- 💻 I’m currently working with NodeJs and React.
+- 📖 I’m currently learning more about Docker, Aws and TDD. 
+- ✉️ How to reach me: cesarinoarthur@gmail.com
 
 **Skills:** 
 <br>
@@ -28,8 +33,9 @@
   <img src="https://github.com/docker.png?s=20" height="50" width="60"/>
 </div>
 <br>
+
 <div>
   <a href="https://github.com/arthurfcs98">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurfcs98&layout=compact&langs_count=7&theme=dracula"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=arthurfcs98&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurfcs98&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em"src="https://github-readme-stats.vercel.app/api?username=arthurfcs98&show_icons=true&count_private=true&theme=dark&include_all_commits"/>
 </div>
