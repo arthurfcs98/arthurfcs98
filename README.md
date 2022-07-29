@@ -1,5 +1,3 @@
-[<img src='https://i.pinimg.com/originals/ab/bf/a1/abbfa1d5c8e4b8adf8874d484071bbe5.jpg' alt='website' height='300' width='1000'>]
-
 ### Hi there 👋, my name is Arthur
 #### I'm a Full Stack Developer
 
@@ -23,7 +21,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" width="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" width="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" width="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="50" width="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" height="50" width="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" width="60"/>
   <img src="https://github.com/typeorm.png?s=20" height="50" width="60"/>
